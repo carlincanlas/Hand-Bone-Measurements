@@ -2,6 +2,7 @@
 My Hand Bone Tkinter App I developed during my first co-op work term
 
 User Guide: https://docs.google.com/document/d/1obFXupnQTYZPwr5UeGseahtxz07VOpDItmsUTzwK-1Q/edit?usp=sharing 
+
 Installation:
 Ensure Python (3.8 or later) is installed.
 

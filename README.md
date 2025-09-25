@@ -2,7 +2,7 @@
 My Hand Bone Tkinter App I developed during my first co-op work term
 
 The goal of this app was to measure the bone-gap ratios of immature hand bones in DICOM images.
-I am extremely passionate about the reseearch I did over the summer as it directly related to scoliosis,
+I am extremely passionate about the research I did over the summer as it directly related to scoliosis,
 a spinal condition that I, and many others, believe is under researched.
 
 I did not use GitHub as I made this, it definitely would have helped if I did!
